@@ -1,3 +1,14 @@
+#CD_MEAN_Angular_DojoMail
+Troy Center troycenter1@gmail.com 
+Coding Dojo MEAN stack, Angular Fundamentals, Dojo Mail assignment
+
+##Dojo Mail
+Create an app which displays a list of Emails. The emails should be created in your AppComponent.ts file within your class. Use interpolation and styling to replicate the below wireframe.
+
+<img src="https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Angular-DojoMail.png> alt="Coding Dojo Assignment Image">
+
+<br> 
+
 # Dojomail
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
@@ -26,3 +37,4 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# CD_MEAN_Angular_DojoMail
