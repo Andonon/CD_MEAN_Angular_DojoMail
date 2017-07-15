@@ -1,8 +1,8 @@
-#CD_MEAN_Angular_DojoMail
+# CD_MEAN_Angular_DojoMail
 Troy Center troycenter1@gmail.com 
 Coding Dojo MEAN stack, Angular Fundamentals, Dojo Mail assignment
 
-##Dojo Mail
+## Dojo Mail
 Create an app which displays a list of Emails. The emails should be created in your AppComponent.ts file within your class. Use interpolation and styling to replicate the below wireframe.
 
 <img src="https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Angular-DojoMail.png> alt="Coding Dojo Assignment Image">
