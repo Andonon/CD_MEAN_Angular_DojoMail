@@ -11,7 +11,8 @@
     </tr>
     <tr *ngFor="let email of emails">
       <td>{{email.email}}</td>
-      <td>{{email.importance}}</td>
+      <td *ngIf='email.importance'>High</td>
+      <td *ngIf='!email.importance'>Low</td>
       <td>{{email.subject}}</td>
       <td>{{email.content}}</td>
     </tr>

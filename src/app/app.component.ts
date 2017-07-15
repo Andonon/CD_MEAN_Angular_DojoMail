@@ -21,7 +21,7 @@ export class AppComponent {
     subject: "Updated Algo",
     content: "New algorithm for shadow volumes"},
     {email: "gabe@newel.com", 
-    importance: "false",
+    importance: false,
     subject: "Updated Algo",
     content: "Just kidding..."}
   ];
